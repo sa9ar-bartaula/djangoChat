@@ -1,5 +1,8 @@
 .venv
 *.pyc
 *.sqlite3
-test/*
+db.sqlite3
+test/
 activate.bat
+__pycache__/
+media/
