@@ -1,2 +1,2 @@
 # Chat Application
-`Chat application using django channels websocket.`
+`Chat application using django channels.`
